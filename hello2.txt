@@ -3,3 +3,8 @@
 working in new branch
 
 more text to add
+
+
+hello
+
+why won't git status work
